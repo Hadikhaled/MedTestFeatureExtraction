@@ -4,7 +4,7 @@
 
 ## Description
 
-MedTest Feature Extraction is a component of the [Your Project Name] graduation project. This tool focuses on automatically extracting valuable features from medical test results, enhancing medical data analysis and decision-making.
+MedTest Feature Extraction is a component of the Shefa graduation project. This tool focuses on automatically extracting valuable features from medical test results, enhancing medical data analysis and decision-making.
 
 ## Features
 
